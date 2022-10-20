@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "76521091180",
+    "project_id": "safesign-ccc2c",
+    "storage_bucket": "safesign-ccc2c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:76521091180:android:a267281d758c192f5fe849",
+        "android_client_info": {
+          "package_name": "com.example.safesign_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "76521091180-um9khen1njnir7gn8vtfpp7n9mk9pis4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.safesign_app",
+            "certificate_hash": "8ed45bedaadef79a545fc421fb464f9b023d089d"
+          }
+        },
+        {
+          "client_id": "76521091180-gv3026ldq4aan9p8rkehdsb7tihobnh7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBd4UWBRtLih6ATI7AXpvPP2Kx8OdNjdgc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "76521091180-gv3026ldq4aan9p8rkehdsb7tihobnh7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
